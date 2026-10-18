@@ -10,5 +10,6 @@ Ziele Ende November: Ø Views > 3.000 · Completion > 45 % · Profilaufrufe > 60
 | KW 40 (01.10.2026, Nullpunkt, letzte 7 Tage) | ca. 300 (Angabe Adrian) | ? | ? | 1 (tiktok) | 15 | 2 | 1 | 4 | UTM-Links seit 01.10. aktiv, erster Klick registriert |
 | KW 40 Abschluss (So 04.10.2026, 28.09.–04.10.) | ? | ? | ? | 10 (tiktok), 0 (instagram) | 22 | 3 | 1 (#1005, 29.09., überschneidet sich mit Nullpunkt-Zeile) | 4 | TikTok-Link bringt Klicks (10), aber 0 davon in den Warenkorb. Checkout erreicht: 4, abgeschlossen: 1. Google 8, Facebook 3 Sessions. |
 | KW 41 (So 11.10.2026, 05.10.–11.10.) | ? | ? | ? | 6 (tiktok), 0 (instagram) | 14 | 1 | 0 | 4 | Rückgang gegenüber KW 40: Sessions DE 22→14, TikTok-Klicks 10→6, Warenkorb 3→1, 0 Bestellungen. Nur 2 Google-Sessions, 0 Facebook/Instagram. Deutet auf wenig oder keine neuen Posts hin. |
+| KW 42 (So 18.10.2026, 12.10.–18.10.) | ? | ? | ? | 4 (tiktok), 0 (instagram), 1 (email/Loox) | 10 | 0 | 0 | 4 | Erste Sprint-Woche. Keine Verbesserung sichtbar: Sessions DE 14→10, TikTok-Klicks 6→4, 0 Warenkorb, 0 Bestellungen. 1 Klick aus einer Loox-Mail (Bewertungsanfrage?). Google 4. |
 
 Lesehilfe: „Sessions DE“ sind echte Besucher aus Deutschland. US-Desktop-Traffic ist Bot-Rauschen und wird ignoriert.
